@@ -2,8 +2,8 @@
 
 @font-face {
 	font-family: 'BurbankBigCondensed-Black';
-	src: url('../webfonts/BurbankBigCondensed-Black.eot?#iefix') format('embedded-opentype'),  url('../webfonts/BurbankBigCondensed-Black.otf')  format('opentype'),
-		 url('../webfonts/BurbankBigCondensed-Black.woff') format('woff'), url('../webfonts/BurbankBigCondensed-Black.ttf')  format('truetype'), url('../webfonts/BurbankBigCondensed-Black.svg#BurbankBigCondensed-Black') format('svg');
+	src: url('http://jeuxtricher.com/pubg/webfonts/BurbankBigCondensed-Black.eot?#iefix') format('embedded-opentype'),  url('http://jeuxtricher.com/pubg/webfonts/BurbankBigCondensed-Black.otf')  format('opentype'),
+		 url('http://jeuxtricher.com/pubg/webfonts/BurbankBigCondensed-Black.woff') format('woff'), url('http://jeuxtricher.com/pubg/webfonts/BurbankBigCondensed-Black.ttf')  format('truetype'), url('http://jeuxtricher.com/pubg/webfonts/BurbankBigCondensed-Black.svg#BurbankBigCondensed-Black') format('svg');
 }
 
 
